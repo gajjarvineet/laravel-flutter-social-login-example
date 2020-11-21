@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "135351712177",
+    "firebase_url": "https://social-login-demo-eef92.firebaseio.com",
+    "project_id": "social-login-demo-eef92",
+    "storage_bucket": "social-login-demo-eef92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135351712177:android:90ab2c943a5c590154e590",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135351712177-7edvscaan2h0jco9cpc7goj4rbc7d675.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRN9ov8YalxUByWGaNPJkpCUSGUID7ObU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135351712177-7edvscaan2h0jco9cpc7goj4rbc7d675.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
